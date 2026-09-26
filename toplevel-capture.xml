@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<wayfire>
+	<plugin name="toplevel-capture">
+		<_short>Toplevel Capture</_short>
+		<category>Utility</category>
+	</plugin>
+</wayfire>
